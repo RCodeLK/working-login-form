@@ -1,0 +1,4 @@
+font-family: 'Noto Sans', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+<script src="https://kit.fontawesome.com/54607eac82.js" crossorigin="anonymous"></script>
